@@ -84,7 +84,7 @@ DEFAULT = {
         'oops': "Maldición! Algo salió mal",
     },
     'fr': {
-        'intro': "Faire une photo",
+        'intro': "Prendre une photo",
         'intro_print': "Ou sinon\ntu peux toujours\nimprimer\ncette photo",
         'choose': "Choisis ton format",
         '1': "1 photo",
